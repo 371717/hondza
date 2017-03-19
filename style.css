@@ -1,0 +1,65 @@
+h1{
+  		color:#4169e1;
+  		font-family: sans-serif;
+        font-weight: 600;
+        text-align: center;
+        border-top: 1px solid rgb(222, 222, 222);
+        border-bottom: 1px solid rgb(222, 222, 222);
+        padding-top: 6px;
+        padding-bottom: 6px;
+        text-transform: uppercase
+  	}  
+    .zanr {
+        text-align: center;
+        color: red;
+        font-size: 2em;
+        float:left;
+        margin-right: 10px;
+        width: 30%;
+      }
+      .autor{
+        font-family: monospace;
+        float:right;
+        width: 30%;
+       margin-bottom: 20px;             
+      }
+      .name{
+         text-decoration: underline
+      }
+      .zdroj{
+          font-family: monospace;
+          font-style: oblique;
+          float:left;
+          width: 40%;
+          margin-bottom: 20px;
+      }
+      #uvod{
+          background-color: darkblue;
+          color: white;
+          clear:both;
+      }
+      #pytel{
+          margin: 10px;
+          text-align: justify;
+          padding: 10px;
+          line-height: 2em;
+          background-color: yellow;
+      }
+      #soutez {
+  		color: black;
+        font-weight: bolder;
+        background-image: url(https://www.planetclaire.tv/wp-content/uploads/1989/12/the-simpsons-bart-simpsons.jpg);
+  	  }
+      h2{
+          text-decoration: underline;
+      }
+      .content{
+          margin: 10px;
+      }
+      #zaver{
+          background-color: yellow;
+      }
+      footer, blockquote{
+          font-weight: bold;
+          text-decoration: underline;
+      }
